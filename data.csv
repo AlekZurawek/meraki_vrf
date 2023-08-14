@@ -1,0 +1,6 @@
+name,CIDR,groupIds
+site-1-10,10.0.0.0/24,VRF-BLUE
+site-2-10,10.0.1.0/24,VRF-BLUE
+site-3-10,10.0.2.0/24,VRF-BLUE
+site-4-10,10.1.0.0/24,VRF-RED
+site-5-10,10.1.1.0/24,VRF-RED
